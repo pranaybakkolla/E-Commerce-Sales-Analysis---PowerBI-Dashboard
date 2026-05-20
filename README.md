@@ -1,3 +1,5 @@
+### Click on the above "👆" ecom_sales_dashboard.pdf to see the dashboard in pdf format
+
 # E-Commerce Sales Analysis (PowerBI Dashboard))
 
 ## Purpose
