@@ -18,7 +18,7 @@ Utilizing  foundational skills of data analysis within the tool.
 * **Payment Ecosystem:** Cash on Delivery (COD) remains the dominant payment preference at 44%, followed by UPI at 21%, indicating that checkout optimization should focus heavily on smoothing out the COD and mobile-wallet pipelines.
 
 ## Project Access Note
-*Due to Power BI Pro licensing restrictions for interactive web links, this dashboard is uploaded as a static PDF to ensure immediate, barrier-free access for reviewers.*
+*Because sharing an interactive Power BI link online requires a paid Power BI Pro/Premium license for both the publisher and the viewer, this dashboard has been exported and uploaded as a static PDF/Image. This ensures the design, layout, and complete analytical insights remain fully accessible to anyone reviewing this repository without licensing barriers.*
 
 ---
 **Tech Stack:** Power BI | Data Modeling | Trend Analysis | Data Interpretation
